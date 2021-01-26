@@ -1,4 +1,4 @@
 # Blog(responsive)
-[try here](ddf)
+[try here]( https://aslikasap.github.io/Mini-Blog/)
 
 ![as](blog.png)
